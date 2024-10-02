@@ -869,7 +869,11 @@ int main() {
 }
 
 ```
-![[Pasted image 20241001024915.png]]
-![[Pasted image 20241002114708.png]]
 
-# > MADE BY `JEET CHAUHAN` (15742).
+![[Pasted image 20241002114708.png]]
+## 🚀 Github link for the Assignment 
+
+https://github.com/JeetChauhan17/OOP-Practical
+
+
+# 📝 MADE BY `JEET CHAUHAN` (15742)
